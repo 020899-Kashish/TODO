@@ -1,0 +1,11 @@
+#container{
+	display:flex;
+}
+#task{
+	margin-top:5%;
+	margin-left:5%;
+}
+#done{
+	margin-top:5%;
+	margin-left:35%;
+}
